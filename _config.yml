@@ -209,6 +209,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+ # _resources
+  - scope:
+     path: ""
+     type: resources
+    values:
+     layout: single
+      author_profile: true
+      share: false
+      comments: false
   # _teaching
  # - scope:
   #    path: ""
