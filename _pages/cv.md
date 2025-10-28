@@ -11,16 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Cognitive Neuroscience, University of Oslo, 2027 (expected)
+* M.Phil. in Cognitive Neuroscience, University of Oslo, 2021
+* M.Sc. in Neuroscience, Norwegian University of Science and Technology, 2018
+* B.A. in Psychology, University of Hawaiʻi at Mānoa, 2016
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sept 2022 – Current: Doctoral Research Fellow and Teacher
+  * _CANlab, University of Oslo_
+  * _Supervisors: Sascha Frühholz and Liv Merve Akca Abrahamsson_
+  * Design and prepare neuroimaging and behavioral experiments, including obtaining ethical approvals
+  * Operate MRI scanner and coordinate MRI training
+  * Preprocess, analyze, and perform statistical modeling on MRI and behavioral data with MATLAB, SPM, R
+  * Supervise and mentor students and research assistants, teach lectures and seminars, grade exams
+  * Manage lab projects, ensuring data collection and handling align with ethical approvals
+  * Collaborate with an external, partner research group
+  * Disseminate research findings at a conference
+  * Handle administrative tasks such as securing internal funding, managing funds, employing assistants, advertising research, and updating webpages
+
 
 * Fall 2015: Research Assistant
   * GitHub University
