@@ -50,7 +50,9 @@ Research experience
   * Troubleshooted to fix problems or crashes in the software
   * Cleaned and prepared the experiment room 
 
-  
+
+{% comment %}
+
 Skills
 ======
 * Research and analysis
@@ -72,13 +74,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-{% comment %}
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-{% endcomment %}
+
   
 
 Teaching
@@ -86,6 +88,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+{% endcomment %}
 
 
 Funding 
