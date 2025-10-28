@@ -11,11 +11,9 @@ Welcome to my webpage!
 
 About me
 ======
-👋 Hi, I’m @chrislru
-
-👀 I’m interested in Cognitive Neuroscience and Machine Learning
-
-🌱 I’m currently learning how to be a Researcher
+* 👋 Hi, I’m @chrislru
+* 👀 I’m interested in Cognitive Neuroscience and Machine Learning
+* 🌱 I’m currently learning how to be a Researcher
 
 
 ## 🧠 Academic Interests
@@ -23,8 +21,6 @@ About me
 * Processing and perception of human and AI-generated voices
 * Social and emotional neural systems
 * Neuroscience of personality and individual differences
-
-[**We are actively recruiting participants.**](https://www.sv.uio.no/psi/english/research/projects/social-decisions/index.html)
 
 ---
 
@@ -36,6 +32,6 @@ About me
 
 ## 👥 Research Group
 
-The Cognitive and Affective Neuroscience lab ([**CANlab**](https://www.sv.uio.no/psi/english/research/groups/canlab/index.html))
+The Cognitive and Affective Neuroscience lab ([**CANlab**](https://caneuro.github.io/))
 
 
