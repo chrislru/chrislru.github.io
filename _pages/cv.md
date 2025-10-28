@@ -18,7 +18,7 @@ Education
 
 Research experience
 ----
-* Sept 2022 – Current: Doctoral Research Fellow and Teacher
+* **Sept 2022 – Current**: Doctoral Research Fellow and Teacher
 * _CANlab, University of Oslo_
 * _Supervisors: Sascha Frühholz and Liv Merve Akca Abrahamsson_
   * Design and prepare neuroimaging and behavioral experiments
@@ -31,7 +31,7 @@ Research experience
   * Handle administrative tasks such as securing internal funding
 
 
-* Jul 2020 – Dec 2021: Master Thesis Student
+* **Jul 2020 – Dec 2021**: Master Thesis Student
 * _University of Oslo with University of Zurich_
 * _Supervisor: Sascha Frühholz_
   * Conducted BOLD analyses from voice localizer scans in relation to the self-report scores
@@ -42,7 +42,7 @@ Research experience
   * Thoroughly and periodically reviewed literature to inform research
 
 
-* Oct 2019 – Dec 2020: Research Assistant
+* **Oct 2019 – Dec 2020**: Research Assistant
 * _CNGlab, University of Oslo_
 * _Supervisor: Thomas Espeseth_
   * Recruited and instructed participants, obtained their informed consent
