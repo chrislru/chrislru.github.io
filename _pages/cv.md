@@ -91,6 +91,23 @@ Teaching
   
 {% endcomment %}
 
+## 👩‍🏫 Teaching
+
+I have taught some lectures and led a few seminars in:
+
+* [**PSY4310** - Research methods in cognitive neuroscience Part I](https://www.uio.no/studier/emner/sv/psykologi/PSY4310/)
+* [**PSY4320** - Research methods in cognitive neuroscience Part II](https://www.uio.no/studier/emner/sv/psykologi/PSY4320/index.html)
+* [**PSY4308** - Trends in Cognitive Psychology and Neuroscience 1](https://www.uio.no/studier/emner/sv/psykologi/PSY4308/index.html)
+* [**PSY4309** - Trends in Cognitive Psychology and Neuroscience 2](https://www.uio.no/studier/emner/sv/psykologi/PSY4309/index.html)
+
+---
+
+I have also advised / am advising students in:
+
+* [**PSY3093** - Bacheloroppgave i kognitiv psykologi](https://www.uio.no/studier/emner/sv/psykologi/PSY3093/index.html)
+* [**PSY4092** - Master thesis in Psychology](https://www.uio.no/studier/emner/sv/psykologi/PSY4092/)
+* [**PSY4340** - Internship](https://www.uio.no/studier/emner/sv/psykologi/PSY4340/index.html)
+
 
 Funding 
 ----
