@@ -18,3 +18,24 @@ About me
 🌱 I’m currently learning how to be a Researcher
 
 
+## 🧠 Academic Interests
+
+* Processing and perception of human and AI-generated voices
+* Social and emotional neural systems
+* Neuroscience of personality and individual differences
+
+[**We are actively recruiting participants.**](https://www.sv.uio.no/psi/english/research/projects/social-decisions/index.html)
+
+---
+
+## 🔬 PhD Project
+
+**Neural dynamics of processing natural and digital emotions:** How does the human brain process and perceive the difference between emotional human and AI-generated voices?
+
+---
+
+## 👥 Research Group
+
+The Cognitive and Affective Neuroscience lab ([**CANlab**](https://www.sv.uio.no/psi/english/research/groups/canlab/index.html))
+
+
