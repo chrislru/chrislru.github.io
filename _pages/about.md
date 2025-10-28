@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Christine's academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/ 
@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 Welcome to my webpage! 
-
-About me
-======
 * 👋 Hi, I’m @chrislru
 * 👀 I’m interested in Cognitive Neuroscience and Machine Learning
 * 🌱 I’m currently learning how to be a Researcher
