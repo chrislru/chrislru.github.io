@@ -9,46 +9,46 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## 🎓 Education
 ----
 * Ph.D in Cognitive Neuroscience, University of Oslo, 2027 (expected)
 * M.Phil. in Cognitive Neuroscience, University of Oslo, 2021
 * M.Sc. in Neuroscience, Norwegian University of Science and Technology, 2018
 * B.A. in Psychology, University of Hawaiʻi at Mānoa, 2016
 
-Research experience
+## 📊 Research experience
 ----
-* **Sept 2022 – Current**: Doctoral Research Fellow and Teacher
-* _CANlab, University of Oslo_
-* _Supervisors: Sascha Frühholz and Liv Merve Akca Abrahamsson_
-  * Design and prepare neuroimaging and behavioral experiments
-  * Operate MRI scanner and coordinate training
-  * Preprocess and analyze MRI and behavioral data with MATLAB, SPM, R
-  * Teach and mentor students and research assistants
-  * Manage lab projects in line with ethical approvals
-  * Collaborate with an external, partner research group
-  * Disseminate research findings at conferences
-  * Handle administrative tasks such as securing internal funding
+### **Sept 2022 – Current**: Doctoral Research Fellow and Teacher
+#### _CANlab, University of Oslo_
+##### _Supervisors: Sascha Frühholz and Liv Merve Akca Abrahamsson_
+* Design and prepare neuroimaging and behavioral experiments
+* Operate MRI scanner and coordinate training
+* Preprocess and analyze MRI and behavioral data with MATLAB, SPM, R
+* Teach and mentor students and research assistants
+* Manage lab projects in line with ethical approvals
+* Collaborate with an external, partner research group
+* Disseminate research findings at conferences
+* Handle administrative tasks such as securing internal funding
 
 
-* **Jul 2020 – Dec 2021**: Master Thesis Student
-* _University of Oslo with University of Zurich_
-* _Supervisor: Sascha Frühholz_
-  * Conducted BOLD analyses from voice localizer scans in relation to the self-report scores
-  * Preprocessed and analyzed fMRI and self-report data
-  * Labeled neuroimaging results anatomically
-  * Collaborated with my advisor to refine research questions and analysis methods
-  * Adapted my thesis into a manuscript for publication
-  * Thoroughly and periodically reviewed literature to inform research
+### **Jul 2020 – Dec 2021**: Master Thesis Student
+#### _University of Oslo with University of Zurich_
+##### _Supervisor: Sascha Frühholz_
+* Conducted BOLD analyses from voice localizer scans in relation to the self-report scores
+* Preprocessed and analyzed fMRI and self-report data
+* Labeled neuroimaging results anatomically
+* Collaborated with my advisor to refine research questions and analysis methods
+* Adapted my thesis into a manuscript for publication
+* Thoroughly and periodically reviewed literature to inform research
 
 
-* **Oct 2019 – Dec 2020**: Research Assistant
-* _CNGlab, University of Oslo_
-* _Supervisor: Thomas Espeseth_
-  * Recruited and instructed participants, obtained their informed consent
-  * Calibrated and ran task software while attending to data quality
-  * Troubleshooted to fix problems or crashes in the software
-  * Cleaned and prepared the experiment room 
+### **Oct 2019 – Dec 2020**: Research Assistant
+#### _CNGlab, University of Oslo_
+##### _Supervisor: Thomas Espeseth_
+* Recruited and instructed participants, obtained their informed consent
+* Calibrated and ran task software while attending to data quality
+* Troubleshooted to fix problems or crashes in the software
+* Cleaned and prepared the experiment room 
 
 
 {% comment %}
@@ -92,7 +92,7 @@ Teaching
 {% endcomment %}
 
 ## 👩‍🏫 Teaching
-
+----
 I have taught some lectures and led a few seminars in:
 
 * [**PSY4310** - Research methods in cognitive neuroscience Part I](https://www.uio.no/studier/emner/sv/psykologi/PSY4310/)
@@ -109,12 +109,12 @@ I have also advised / am advising students in:
 * [**PSY4340** - Internship](https://www.uio.no/studier/emner/sv/psykologi/PSY4340/index.html)
 
 
-Funding 
+## 💰 Funding 
 ----
 * 2025 - [FENS Travel Grant for SfN Annual Meeting](https://www.fens.org/careers/grants-and-stipends/grant/travel-grants-for-the-annual-meeting-of-the-society-for-neuroscience)
 
   
-Membership 
+## 🤝 Membership 
 ----
 * Jan 2025 - Current: Society for Neuroscience
 * Sept 2022 - Current:  Federation of European Neuroscience Societies
