@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+----
 * Ph.D in Cognitive Neuroscience, University of Oslo, 2027 (expected)
 * M.Phil. in Cognitive Neuroscience, University of Oslo, 2021
 * M.Sc. in Neuroscience, Norwegian University of Science and Technology, 2018
 * B.A. in Psychology, University of Hawaiʻi at Mānoa, 2016
 
 Research experience
-======
+----
 * Sept 2022 – Current: Doctoral Research Fellow and Teacher
 * _CANlab, University of Oslo_
 * _Supervisors: Sascha Frühholz and Liv Merve Akca Abrahamsson_
@@ -93,11 +93,11 @@ Teaching
 
 
 Funding 
-======
+----
 * 2025 - [FENS Travel Grant for SfN Annual Meeting](https://www.fens.org/careers/grants-and-stipends/grant/travel-grants-for-the-annual-meeting-of-the-society-for-neuroscience)
 
   
 Membership 
-======
+----
 * Jan 2025 - Current: Society for Neuroscience
 * Sept 2022 - Current:  Federation of European Neuroscience Societies
