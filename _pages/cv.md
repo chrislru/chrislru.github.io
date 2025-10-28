@@ -102,7 +102,7 @@ I have taught some lectures and led a few seminars in:
 
 ---
 
-I have also advised / am advising students in:
+I have also advised students in:
 
 * [**PSY3093** - Bacheloroppgave i kognitiv psykologi](https://www.uio.no/studier/emner/sv/psykologi/PSY3093/index.html)
 * [**PSY4092** - Master thesis in Psychology](https://www.uio.no/studier/emner/sv/psykologi/PSY4092/)
