@@ -11,12 +11,12 @@ Welcome to my webpage!
 
 About me
 ======
-* Hi, I’m @chrislru
-* I’m interested in Cognitive Neuroscience and Machine Learning
-* I’m currently learning how to be a Researcher
+* 👋 Hi, I’m @chrislru
+* 👀 I’m interested in Cognitive Neuroscience and Machine Learning
+* 🌱 I’m currently learning how to be a Researcher
 
 
-## Academic Interests
+## 🧠 Academic Interests
 
 * Processing and perception of human and AI-generated voices
 * Social and emotional neural systems
@@ -24,7 +24,7 @@ About me
 
 ---
 
-## PhD Project
+## 🔬 PhD Project
 
 **Neural dynamics of processing natural and digital emotions:** How does the human brain process and perceive the difference between emotional human and AI-generated voices?
 
