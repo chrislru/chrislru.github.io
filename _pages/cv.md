@@ -115,6 +115,7 @@ I have also advised students in:
 ## 💰 Funding 
 ----
 * 2025 - [FENS Travel Grant for SfN Annual Meeting](https://www.fens.org/careers/grants-and-stipends/grant/travel-grants-for-the-annual-meeting-of-the-society-for-neuroscience)
+  * 2000 EUR each with complimentary registration
 
   
 ## 🤝 Membership 
