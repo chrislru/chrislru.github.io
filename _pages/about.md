@@ -10,11 +10,10 @@ redirect_from:
 Welcome to my webpage! 
 * 👋 Hi, I’m @chrislru
 * 👀 I’m interested in Cognitive Neuroscience and Machine Learning
-* 🌱 I’m currently learning how to be a Researcher
+* 🌱 I’m currently learning how to be an indepedent researcher
 
 
 ## 🧠 Academic Interests
-
 * Processing and perception of human and AI-generated voices
 * Social and emotional neural systems
 * Neuroscience of personality and individual differences
@@ -24,6 +23,9 @@ Welcome to my webpage!
 ## 🔬 PhD Project
 
 **Neural dynamics of processing natural and digital emotions:** How does the human brain process and perceive the difference between emotional human and AI-generated voices?
+  * What processes are involved in distinguishing between them?
+  * How do personality traits influence our responses to them?
+  * Do perceived trustworthiness and authenticity make a difference?
 
 ---
 
