@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my webpage! 
 * 👋 Hi, I’m @chrislru
-* 👀 I’m interested in Cognitive Neuroscience and Machine Learning
+* 👀 I’m interested in Cognitive Neuroscience
 * 🌱 I’m currently learning how to be an indepedent researcher
 
 
