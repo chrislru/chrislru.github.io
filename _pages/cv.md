@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+I am a dedicated researcher with a versatile background in cognitive neuroscience, eager to contribute to advancing our understanding of the human brain. I thrive in challenging environments that foster growth, skill development, and impactful contributions. Driven by continuous learning, I seek opportunities where I can refine my expertise, contribute to innovative research that benefits society, and grow both professionally and personally.
+
+
 ## 🎓 Education
 ----
 * Ph.D in Cognitive Neuroscience, University of Oslo, 2027 (expected)
