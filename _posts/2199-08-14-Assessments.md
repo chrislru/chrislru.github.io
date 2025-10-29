@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 2'
+title: 'List of Assessments'
 date: 2199-08-14
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/2013/08/Assessments/
 tags:
   - cool posts
   - category1
